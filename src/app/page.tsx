@@ -118,7 +118,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className="container">
           <div className="row mb-3">
-            <h2>Application</h2>
+            <h2>My Application</h2>
           </div>
 
           <div className="row">
